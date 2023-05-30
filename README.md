@@ -1,16 +1,9 @@
-# blog
+# Ma'Blog
 
-A new Flutter project.
+In this application, users register via google or mail and blog writers on the subject determined by the admin. If the admin approves their blog, notifications that your blog is published in different ways while the user is in the application or not. You can follow the owner of the blog and only see the blogs of the people you follow. It is also added to your profile. You can search for bloggers and view random blogs. At the same time, you can easily paginate thanks to the firestore pagination package. It has many features such as adding bios, changing themes, following users, showing the number of posts,comment,liking. Admin can delete post etc
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/Flattih/Awesome-Blog-App/assets/85228645/68eb2324-190f-455a-81e7-6d346df664d6
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
