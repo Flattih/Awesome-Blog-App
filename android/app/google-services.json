@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1080662988948",
+    "project_id": "bloggzzi",
+    "storage_bucket": "bloggzzi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080662988948:android:571686ca860f0cf443fc81",
+        "android_client_info": {
+          "package_name": "com.blogappz3.erkam.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080662988948-0mimofduf4j0daa7tspjoktvb9ee5se1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blogappz3.erkam.blog",
+            "certificate_hash": "321bb4b2afa3ec0c98f9b16dd45054ea75c10710"
+          }
+        },
+        {
+          "client_id": "1080662988948-uktslrfh0l7gl6jhs3l5qmhpf675h0ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZn5vQKNd_zBoYyEkrGZhrzII0ABbvqK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080662988948-394b6j1qved3i7im964j374qfc3jdigd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080662988948-4o45drc3di7srn03vvsoq2s7sbk37mt2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.blogappz3.erkam.blog"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
